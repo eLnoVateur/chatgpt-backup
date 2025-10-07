@@ -4,6 +4,42 @@
   "user_custom": null,
   "sync_custom": [
     {
+      "name": "a trier ",
+      "protocol": "local",
+      "id": "69835613261641e483e9855b16cf9621",
+      "file": {
+        "file": {
+          "uid": "rc-upload-1759823703486-2",
+          "lastModified": 1759822700166,
+          "lastModifiedDate": "2025-10-07T07:38:20.166Z",
+          "name": "chatgpt_prompts_master.json",
+          "size": 134153,
+          "type": "application/json",
+          "percent": 0,
+          "originFileObj": {
+            "uid": "rc-upload-1759823703486-2"
+          },
+          "status": "uploading"
+        },
+        "fileList": [
+          {
+            "uid": "rc-upload-1759823703486-2",
+            "lastModified": 1759822700166,
+            "lastModifiedDate": "2025-10-07T07:38:20.166Z",
+            "name": "chatgpt_prompts_master.json",
+            "size": 134153,
+            "type": "application/json",
+            "percent": 0,
+            "originFileObj": {
+              "uid": "rc-upload-1759823703486-2"
+            },
+            "status": "uploading"
+          }
+        ]
+      },
+      "last_updated": 1759823793245
+    },
+    {
       "name": "prompte repo clone",
       "protocol": "local",
       "id": "19ef7300b6f04f6988628ab8a84ec655",
