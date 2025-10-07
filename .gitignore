@@ -1,3 +1,10 @@
 ﻿cache_prompts/
 ChatGPT.log
 *.bak
+*.log
+*.tmp
+*.lock
+*.sqlite*
+*.db
+node_modules/
+scripts/*.cache
