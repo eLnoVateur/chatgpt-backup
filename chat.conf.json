@@ -9,7 +9,7 @@
   "default_origin": "https://chat.openai.com",
   "speech_lang": "Microsoft Julie - French (France)",
   "isinit": false,
-  "popup_search": true,
+  "popup_search": false,
   "main_close": true,
   "main_dashboard": false,
   "main_origin": "https://chat.openai.com",
