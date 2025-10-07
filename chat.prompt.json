@@ -1,5 +1,43 @@
 {
   "name": "ChatGPT Prompts",
   "link": "https://github.com/lencx/ChatGPT",
-  "user_custom": null
+  "user_custom": null,
+  "sync_custom": [
+    {
+      "name": "Awesome (converted)",
+      "protocol": "local",
+      "id": "2476f3ffe941461d86cc1e5c6bca3137",
+      "file": {
+        "file": {
+          "uid": "rc-upload-1759814540788-2",
+          "lastModified": 1759816094224,
+          "lastModifiedDate": "2025-10-07T05:48:14.224Z",
+          "name": "awesome_prompts_converted.csv",
+          "size": 122049,
+          "type": "text/csv",
+          "percent": 0,
+          "originFileObj": {
+            "uid": "rc-upload-1759814540788-2"
+          },
+          "status": "uploading"
+        },
+        "fileList": [
+          {
+            "uid": "rc-upload-1759814540788-2",
+            "lastModified": 1759816094224,
+            "lastModifiedDate": "2025-10-07T05:48:14.224Z",
+            "name": "awesome_prompts_converted.csv",
+            "size": 122049,
+            "type": "text/csv",
+            "percent": 0,
+            "originFileObj": {
+              "uid": "rc-upload-1759814540788-2"
+            },
+            "status": "uploading"
+          }
+        ]
+      },
+      "last_updated": 1759816230161
+    }
+  ]
 }
