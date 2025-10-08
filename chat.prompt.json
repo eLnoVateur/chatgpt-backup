@@ -1,7 +1,10 @@
 {
   "name": "ChatGPT Prompts",
   "link": "https://github.com/lencx/ChatGPT",
-  "user_custom": null,
+  "user_custom": {
+    "id": "user_custom",
+    "last_updated": 1759941224088
+  },
   "sync_custom": [
     {
       "name": "toujoursplus",
