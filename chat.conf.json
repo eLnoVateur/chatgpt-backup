@@ -9,7 +9,7 @@
   "default_origin": "https://chat.openai.com",
   "speech_lang": "",
   "isinit": false,
-  "popup_search": false,
+  "popup_search": true,
   "main_close": true,
   "main_dashboard": false,
   "main_origin": "https://chat.openai.com",
